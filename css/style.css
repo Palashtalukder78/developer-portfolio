@@ -35,11 +35,11 @@ p{
     font-weight: 700;
 }
 .top-banner{
-    background-image: url(/images/top-banner.png);
+    background-image: url(/images/topbanner.png);
     background-repeat: no-repeat;
 }
 .dream-big{
-    background-image: URL(/images/dream-bg.png);
+    background-image: URL(/images/dreambg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -55,7 +55,7 @@ p{
     padding: 3%;
 }
 .experience-area{
-    background-image: url(/images/exp-bg.png);
+    background-image: url(/images/expbg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
